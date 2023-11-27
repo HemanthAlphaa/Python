@@ -1,0 +1,31 @@
+1. **Sum of Multiples:**
+   Write a Python program to find the sum of all multiples of 3 or 5 below 1000.
+
+2. **Factorial:**
+   Write a function to calculate the factorial of a given number.
+
+3. **Palindrome Checker:**
+   Write a function that checks if a given string is a palindrome.
+
+4. **FizzBuzz:**
+   Write a program that prints the numbers from 1 to 100. But for multiples of three, print "Fizz" instead of the number, and for the multiples of five, print "Buzz." For numbers that are multiples of both three and five, print "FizzBuzz."
+
+5. **Reverse a String:**
+   Write a function to reverse a given string.
+
+6. **Prime Numbers:**
+   Write a function to determine whether a given number is prime.
+
+7. **Count Vowels:**
+   Write a function that takes a string as input and counts the number of vowels in it.
+
+8. **List Comprehension:**
+   Write a one-liner using list comprehension to create a list of squares of numbers from 1 to 10.
+
+9. **Find the Missing Number:**
+   Given a list containing n distinct numbers taken from the range 0 to n, find the one that is missing from the list.
+
+10. **Maximum Subarray Sum:**
+    Given an array of integers, find the contiguous subarray with the largest sum.
+
+Remember, these problems cover a range of concepts, from basic syntax to more complex algorithms. Take your time to solve them and understand the underlying principles. If you encounter difficulties, don't hesitate to ask for hints or explanations. Happy coding!
