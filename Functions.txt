@@ -1,0 +1,18 @@
+Sure, here are five problems that range from easy to hard, focusing on Python functions:
+
+1. **Easy: Sum of Two Numbers**
+   - Write a function called `add_numbers` that takes two numbers as parameters and returns their sum.
+
+2. **Easy/Medium: Factorial**
+   - Write a function called `calculate_factorial` that takes a number as a parameter and returns its factorial. The factorial of a number is the product of all positive integers up to that number.
+
+3. **Medium: Palindrome Check**
+   - Write a function called `is_palindrome` that takes a string as a parameter and returns `True` if it's a palindrome (reads the same backward as forward), and `False` otherwise.
+
+4. **Medium/Hard: Fibonacci Sequence**
+   - Write a function called `generate_fibonacci` that takes a number `n` as a parameter and returns the first `n` numbers in the Fibonacci sequence.
+
+5. **Hard: Prime Factorization**
+   - Write a function called `prime_factorization` that takes a number as a parameter and returns a list of its prime factors. Prime factorization is the process of finding the prime numbers that multiply together to give the original number.
+
+Feel free to attempt these problems, and if you need help or want to check your solutions, I'm here to assist!
